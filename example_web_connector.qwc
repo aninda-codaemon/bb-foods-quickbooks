@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<QBWCXML>
+	<AppName>QuickBooks-XML Integrator</AppName>
+	<AppID></AppID>
+	<AppURL>http://localhost/quickbooks-xml/example_web_connector.php</AppURL>
+	<AppDescription></AppDescription>
+	<AppSupport>http://localhost/quickbooks-xml/example_web_connector.php?support=1</AppSupport>
+	<UserName>quickbooks</UserName>
+	<OwnerID>{20A44FB7-33D9-4815-AC85-AC86A7E7D1EB}</OwnerID>
+	<FileID>{17F3B9B6-86F1-4fcc-B1FF-967DE1813D20}</FileID>
+	<QBType>QBFS</QBType>
+	<Scheduler>
+		<RunEveryNMinutes>5</RunEveryNMinutes>
+	</Scheduler>
+	<IsReadOnly>false</IsReadOnly>
+</QBWCXML>
